@@ -1,0 +1,23 @@
+.DS_Store
+.idea
+*.vcd
+*.fst
+*.fst.hier
+runs
+tt_submission
+src/user_config.json
+src/config_merged.json
+test/sim_build
+test/__pycache__/
+test/results.xml
+test/gate_level_netlist.v
+harden.sh
+tt/
+runs/
+src/user_config.json
+src/config_merged.json
+harden_librelane.sh
+
+# local-only (added 2026-08-16)
+test/.venv/
+harden*.sh
